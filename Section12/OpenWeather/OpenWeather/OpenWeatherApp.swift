@@ -1,14 +1,14 @@
 //
-//  LearnApp.swift
-//  Learn
+//  OpenWeatherApp.swift
+//  OpenWeather
 //
-//  Created by 이수현 on 9/27/24.
+//  Created by 이수현 on 9/28/24.
 //
 
 import SwiftUI
 
 @main
-struct LearnApp: App {
+struct OpenWeatherApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
